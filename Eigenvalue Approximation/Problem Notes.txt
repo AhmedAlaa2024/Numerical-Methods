@@ -1,0 +1,1 @@
+1. What if the user enter the starting vector 0 0 0 0...?
